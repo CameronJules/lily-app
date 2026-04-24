@@ -2,14 +2,6 @@
 
 A gamified productivity app that turns to-dos into an enjoyable and sustainable experience. Think *Duolingo for productivity*.
 
-Built during the Encode Club **Commit to Change** hackathon, the app rewards consistency, breaks goals into manageable tasks, and makes staying productive feel engaging rather than overwhelming.
-
-This repository contains the **frontend** codebase.
-The **backend** is available here:
-[https://github.com/CameronJules/encode-commit-app-backend](https://github.com/CameronJules/encode-commit-app-backend)
-
-> The app name has been intentionally omitted to reduce searchability ahead of its App Store release.
-
 # Buddies
 Assign a buddy for important groups of work. <br>
 As you complete tasks you can customise each buddy with cool stuff from the shop! <br>
